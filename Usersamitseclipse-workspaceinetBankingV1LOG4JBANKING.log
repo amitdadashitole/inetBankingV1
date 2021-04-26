@@ -1,0 +1,4 @@
+21:03:06,816  INFO ebanking<strong>{1}</strong>:14 - URL is opened
+21:03:06,943  INFO ebanking<strong>{1}</strong>:19 - Username entered
+21:03:07,015  INFO ebanking<strong>{1}</strong>:21 - password entered
+21:03:09,759  INFO ebanking<strong>{1}</strong>:27 - login test passed
